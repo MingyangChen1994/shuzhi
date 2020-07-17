@@ -1,5 +1,3 @@
-[TOC]
-
 ## 背景
 
 ​	教育中大数据分析目的包括改善学生成绩，服务教务设计，优化学生服务。而学生成绩中有一系列重要的信息往往被我们常规研究所忽视。通过大数据分析和可视化展示，挖掘重要信息，改善学生服务，对于教学改进意义重大。
@@ -113,11 +111,11 @@
 
 2. 学生画像。  
 
+![Alt text](https://github.com/MingyangChen1994/shuzhi/blob/master/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/%E5%AD%A6%E7%94%9F%E9%A1%B5%E9%9D%A2.png)
 
+3. 班级画像。  
 
-3. 班级画像。
-
-   ![image-20200717214457311](C:\Users\MYChen\AppData\Roaming\Typora\typora-user-images\image-20200717214457311.png)
+![Alt text](https://github.com/MingyangChen1994/shuzhi/blob/master/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/%E7%8F%AD%E7%BA%A7%E9%A1%B5%E9%9D%A2.png)
 
 4. 教师画像。
 
