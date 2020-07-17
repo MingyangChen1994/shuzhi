@@ -110,6 +110,7 @@
 1. 学校门户主页。
 
    <img src="C:\Users\MYChen\AppData\Roaming\Typora\typora-user-images\image-20200717212100313.png" alt="image-20200717212100313" style="zoom: 80%;" />
+   ![Alt text](https://github.com/MingyangChen1994/shuzhi/blob/master/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/%E4%B8%BB%E9%A1%B5.png)
 
 2. 学生画像。
 
