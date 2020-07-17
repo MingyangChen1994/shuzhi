@@ -117,13 +117,13 @@
 
 ![Alt text](https://github.com/MingyangChen1994/shuzhi/blob/master/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/%E7%8F%AD%E7%BA%A7%E9%A1%B5%E9%9D%A2.png)
 
-4. 教师画像。
+4. 教师画像。  
 
-   ![image-20200717213829632](C:\Users\MYChen\AppData\Roaming\Typora\typora-user-images\image-20200717213829632.png)
+![Alt text](https://github.com/MingyangChen1994/shuzhi/blob/master/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/%E6%95%99%E5%B8%88%E9%A1%B5%E9%9D%A2.png)
 
-5. 荣誉墙及科目推荐
+5. 荣誉墙及科目推荐  
 
-   <img src="C:\Users\MYChen\AppData\Roaming\Typora\typora-user-images\image-20200717214342448.png" alt="image-20200717214342448" style="zoom:67%;" />
+![Alt text](https://github.com/MingyangChen1994/shuzhi/blob/master/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/%E5%88%86%E6%9E%90%E9%A1%B5%E9%9D%A2.png)
 
 **定义指标包括：**
 
