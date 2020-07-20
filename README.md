@@ -7,6 +7,12 @@
 ​	本工作主要利用MySQL，python进行数据预处理及相应指标计算，利用QuickBI工具进行数据门户的可视化。
 
 **由于QuickBI数据门户页面无法公开，只能单独浏览各个分区仪表板**
+主页：https://bi.aliyuncs.com/token3rd/dashboard/view/pc.htm?pageId=787147fa-7ae4-4ce0-988f-b570aab0ada1&accessToken=1a5dbd1a7142670b7e8c26486a64b67f
+班级页面：https://bi.aliyuncs.com/token3rd/dashboard/view/pc.htm?pageId=253992e8-19bd-414f-8a33-51112d3bb1a7&accessToken=987bca25712e708da1c9f654a3f84f38
+教师页面：https://bi.aliyuncs.com/token3rd/dashboard/view/pc.htm?pageId=368460cc-f4b5-42de-aeda-a0754b18fd97&accessToken=fe26eebcf41b8dd9b4d828d6cef7fd50
+学生页面：https://bi.aliyuncs.com/token3rd/dashboard/view/pc.htm?pageId=989e2aa1-591f-48e6-82a1-a3b8be09be9d&accessToken=df76b0c01b185d2e486be764cbbce6d4
+荣誉墙及科目：https://bi.aliyuncs.com/token3rd/dashboard/view/pc.htm?pageId=bb081b92-4615-4475-9d01-3e6872a784aa&accessToken=3c61a9b7c26ff7a0fecaa82a7a6c3913
+
 
 ## 数据集
 
@@ -137,7 +143,7 @@
 
 **5. 优秀班级：班级总分平均分排名前10%；**
 
-**6. 优秀教师：带的班级的科目平均分超过总的班级科目平均分/排名前5 **
+**6. 优秀教师：带的班级的科目平均分超过总的班级科目平均分/排名前5；**
 
 **7. 贫困学生：消费低于全校平均月消费且消费额度班级排名倒数前5**
 
